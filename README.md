@@ -9,18 +9,31 @@ java enigma.Main < INPUT-FILE > OUTPUT-FILE
 The input file looks like this:
 
 * B III IV I AXLE
+
 FROM his shoulder Hiawatha
+
 Took the camera of rosewood
+
 Made of sliding folding rosewood
+
 Neatly put it all together
+
 In its case it lay compactly
+
 Folded into nearly nothing
+
 But he opened out the hinges
+
 Pushed and pulled the joints
+
 and hinges
+
 Till it looked all squares
+
 and oblongs
+
 Like a complicated figure
+
 In the Second Book of Euclid
 
 The first line is the configuration file denoted by an "*". The first letter is B or C for the reflector being used. The next three roman numerals are the three rotors in their respective order. The last word denotes the inital positions of the reflector and the three rotors. 

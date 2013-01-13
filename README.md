@@ -28,15 +28,25 @@ The first line is the configuration file denoted by an "*". The first letter is 
 Rotors:
 
 Rotor Permutation (as cycles) and the Notch that advances the next rotor:
+
 Rotor I (AELTPHQXRU) (BKNW) (CMOY) (DFG) (IV) (JZ) (S) Notch: Q
+
 Rotor II (FIXVYOMW) (CDKLHUP) (ESZ) (BJ) (GR) (NT) (A) (Q) Notch: E
+
 Rotor III (ABDHPEJT) (CFLVMZOYQIRWUKXSG) (N) Notch: V
+
 Rotor IV (AEPLIYWCOXMRFZBSTGJQNH) (DV) (KU) Notch: J
+
 Rotor V (AVOLDRWFIUQ)(BZKSMNHYC) (EGTJPX) Notch: Z
+
 Rotor VI (AJQDVLEOZWIYTS) (CGMNHFUX) (BPRK) Notches: Z and M
+
 Rotor VII (ANOUPFRIMBZTLWKSVEGCJYDHXQ) Notches : Z and M
+
 Rotor VIII (AFLSETWUNDHOZVICQ) (BKJ) (GXY) (MPR) Z and M
+
 Reﬂector B (AY) (BR) (CU) (DH) (EQ) (FS) (GL) (IP) (JX) (KN) (MO) (TZ) (VW)
+
 Reﬂector C (AF) (BV) (CP) (DJ) (EI) (GO) (HY) (KR) (LZ) (MX) (NW) (TQ) (SU)
 
 This shows the initial positons of the rotors. For more information see the PDF.

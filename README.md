@@ -9,6 +9,7 @@ Usage
 
     java enigma.Main < INPUT-FILE
 or
+
     java enigma.Main < INPUT-FILE > OUTPUT-FILE
 
 The input file looks like this:
@@ -30,9 +31,11 @@ The input file looks like this:
 
 The first line is the configuration file denoted by an "*". The first letter is B or C for the reflector being used. The next three roman numerals are the three rotors in their respective order. The last word denotes the inital positions of the reflector and the three rotors. 
 
-Rotors:
+Rotors
+------
 
 Rotor Permutation (as cycles) and the Notch that advances the next rotor:
+
     Rotor I (AELTPHQXRU) (BKNW) (CMOY) (DFG) (IV) (JZ) (S) Notch: Q
     Rotor II (FIXVYOMW) (CDKLHUP) (ESZ) (BJ) (GR) (NT) (A) (Q) Notch: E
     Rotor III (ABDHPEJT) (CFLVMZOYQIRWUKXSG) (N) Notch: V

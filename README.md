@@ -7,10 +7,16 @@ This is the working code for a German Enigma machine used in WW2. This project w
 Usage
 -----
 
+    javac -g enigma/*.java
     java enigma.Main < INPUT-FILE
 or
 
+    javac -g enigma/*.java
     java enigma.Main < INPUT-FILE > OUTPUT-FILE
+or
+
+    javac -g enigma/*.java
+    java enigma.Main
 
 The input file looks like this:
 

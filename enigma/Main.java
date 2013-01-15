@@ -189,6 +189,7 @@ public final class Main {
 			System.out.print(c);
 			i++;
 		}
+		System.out.println();
 	}
 
 	static String[] rotorList = new String[] { "I", "II", "III", "IV", "V",

@@ -52,7 +52,6 @@ class Machine {
 		for (char c : msgChars) {
 			result += convertChar(c);
 		}
-		System.out.println("Result: " + result);
 		return result;
 	}
 

@@ -52,7 +52,7 @@ class Machine {
 		for (char c : msgChars) {
 			result += convertChar(c);
 		}
-		return result;
+			return result;
 	}
 
 	char convertChar(char c) {
